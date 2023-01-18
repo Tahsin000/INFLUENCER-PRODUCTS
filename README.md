@@ -1,17 +1,17 @@
 # **Influencer products**
 
-### Live view:
+### Live view: [Cilck ME](https://tahsin000.github.io/INFLUENCER-PRODUCTS/index.html)
 
-### Code view:
+### Code view: [Clik ME](https://github.com/Tahsin000/INFLUENCER-PRODUCTS/blob/main/index.html)
 
-### PC view
+## PC view
 
 ![pc_view.png](img/pc_view.png)
 
-### Mobile view
+## Mobile view
 
 ![mobile_view.png](img/mobile_view.png)
 
-### Tablet view
+## Tablet view
 
 ![tablet_view.png](img/tablet_view.png)
